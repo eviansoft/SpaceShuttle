@@ -7,9 +7,7 @@ namespace SpaceShuttle
         static void Main(string[] args)
         {
             Console.WriteLine("Hi+Hi!");
-            Console.WriteLine("From renamed branch");
-            Console.WriteLine("From renamed branch 2!");
-            Console.WriteLine("From renamed branch 3!!");
+            Console.WriteLine("From renamed branch 4!!!");
         }
     }
 }
