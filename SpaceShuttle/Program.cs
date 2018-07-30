@@ -25,7 +25,7 @@ namespace SpaceShuttle
             if(i == 0)
             {
                 timer.Stop();
-                Console.WriteLine("ПОЛЕТЕЛИИИИИИИИИИИИИИИИИИИ!!!!!!!!!!!!!!");
+                Console.WriteLine("ПОЛЕТЕЛИИИИИИИИИИИИИИИИИИИ!!!!!!!!!!!!!!!");
                 Console.Beep(500, 10000);
             }
 
