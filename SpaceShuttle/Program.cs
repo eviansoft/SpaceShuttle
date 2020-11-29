@@ -13,7 +13,7 @@ namespace SpaceShuttle
             timer.Interval = 1000;
             timer.Elapsed += Timer_Elapsed;
 
-            Console.WriteLine("Запускаем");
+            Console.WriteLine("Запускаем2");
             timer.Start();
 
             Console.ReadLine();
